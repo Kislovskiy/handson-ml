@@ -52,10 +52,10 @@ Once you have [installed Anaconda](https://docs.anaconda.com/anaconda/install/) 
 
     $ conda env create -f environment.yml
 
-This will give you a conda environment named `mlbook`, ready to use! Just activate it and you will have everything setup
+This will give you a conda environment named `tf1`, ready to use! Just activate it and you will have everything setup
 for you:
 
-    $ conda activate mlbook
+    $ conda activate tf1
 
 You are all set! Next, jump to the [Starting Jupyter](#starting-jupyter) section.
 
